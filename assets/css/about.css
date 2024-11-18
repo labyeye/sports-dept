@@ -3904,11 +3904,11 @@ blockquote {
 .team-grid {
   grid-column-gap: 30px;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 .team-content-wrap {
-  padding-top: 20px;
+  padding-top: 90px;
 }
 
 .team-title {
@@ -3925,7 +3925,8 @@ blockquote {
 }
 
 .team-image-wrap {
-  position: relative;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .team-social-wrap {
@@ -3937,6 +3938,7 @@ blockquote {
   bottom: 0%;
   left: 0%;
   right: 0%;
+  
 }
 
 .team-social-area {

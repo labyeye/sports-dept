@@ -2478,7 +2478,7 @@ blockquote {
 .navbar {
   z-index: 2;
   background-color: rgba(0, 0, 0, 0);
-  padding-top: 40px;
+  padding-top: 20px;
   position: relative;
 }
 
@@ -2490,7 +2490,7 @@ blockquote {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   display: flex;
 }
 
@@ -5958,7 +5958,7 @@ blockquote {
 }
 
 .nav-menu-button {
-  color: var(--white);
+  color: transparent;
 }
 
 .blog-trend-content {
@@ -7405,7 +7405,7 @@ blockquote {
   }
 
   .nav-menu-button {
-    background-color: var(--title-color);
+    background-color: transparent;
     border-radius: 10px;
     padding: 15px;
     font-size: 25px;
@@ -8333,7 +8333,7 @@ blockquote {
   }
 
   .navbar {
-    padding-top: 30px;
+    padding-top: 00px;
   }
 
   .nav-wrap {

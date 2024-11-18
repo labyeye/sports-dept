@@ -225,11 +225,11 @@ th {
 }
 
 .w-icon-slider-right:before {
-  content: "=";
+  content: "î˜€";
 }
 
 .w-icon-slider-left:before {
-  content: "=";
+  content: "î˜";
 }
 
 .w-icon-nav-menu:before {
@@ -238,7 +238,7 @@ th {
 
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
-  content: "=";
+  content: "î˜ƒ";
 }
 
 .w-icon-file-upload-remove:before {
@@ -2478,7 +2478,7 @@ blockquote {
 .navbar {
   z-index: 2;
   background-color: rgba(0, 0, 0, 0);
-  padding-top: 20px;
+  padding-top: 40px;
   position: relative;
 }
 
@@ -2490,7 +2490,7 @@ blockquote {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
   display: flex;
 }
 
@@ -3101,7 +3101,7 @@ blockquote {
 }
 
 .home-slider-whole-wrap.banner-slider-item-first {
-  background-image: url(back1.JPG);
+  background-image: url("https://assets-global.website-files.com/63c10e746e818183b41808a0/63f9a8dc69cf809d9df57ebf_Banner-01.jpg");
 }
 
 .home-slider-whole-wrap.banner-slider-item-second {
@@ -3123,7 +3123,7 @@ blockquote {
 
 .home-slider-content-wrap {
   z-index: 2;
-  max-width: 800px;
+  max-width: 600px;
   position: relative;
 }
 
@@ -5958,7 +5958,7 @@ blockquote {
 }
 
 .nav-menu-button {
-  color: white;
+  color: var(--white);
 }
 
 .blog-trend-content {
@@ -8333,7 +8333,7 @@ blockquote {
   }
 
   .navbar {
-    padding-top: 00px;
+    padding-top: 30px;
   }
 
   .nav-wrap {
